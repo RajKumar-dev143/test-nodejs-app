@@ -16,12 +16,12 @@ pipeline {
         }
       }
 
-         stage("Deploy application") { 
-         steps { 
-           sh 'echo "deploying application..."'
-         }
+         //stage("Deploy application") { 
+         //steps { 
+         //  sh 'echo "deploying application..."'
+        // }
 
-     }
+   //  }
   
    	}
 
